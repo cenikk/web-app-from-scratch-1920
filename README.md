@@ -1,42 +1,30 @@
-# Web App From Scratch @cmda-minor-web 1819
+# Webapp from scratch
 
-In this course you will learn to build a web application without frameworks or unnecessary libraries, but with vanilla HTML, CSS & JavaScript as much as possible. The end result is a modular, single page web app (SPA). Data will be retrieved from an external API of your choice, manipulated and finally shown in the UI of the App. You will learn different ways to structure code and develope your own coding style. With the gained knowledge you will be able to build interactive prototypes, based on real data. Also you will gain a better understanding of the how API's, frameworks and libraries work.
+## Description
+In this course I will learn to build a web application without frameworks or unnecessary libraries, but with vanilla HTML, CSS & JavaScript. The end result is a modular, single page web app (SPA). Data will be retrieved from an external API of my choice (imdb.com), manipulated and finally shown in the UI of the App. With the gained knowledge I will be able to build interactive prototypes, based on real data. Besides that, I will gain a better understanding of how API's, frameworks and libraries work.
+
+## API
+
+## Installation
 
 ## Learning goals
 
-* _You can add structure to your code by applying patterns. You can defend the choice for the chosen patterns_
-* _You can retrieve data, manipulate it and dynamically convert it to html elements using templating_
-* _You understand how you can work with an external API using asynchronous code_
-* _You understand how you can manage state in your application and you inform the user of state where necessary_
+* I can add structure to your code by applying patterns. You can defend the choice for the chosen patterns
+* I can retrieve data, manipulate it and dynamically convert it to html elements using templating
+* I understand how you can work with an external API using asynchronous code
+* I understand how you can manage state in your application and you inform the user of state where necessary
 
-[Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vTjZGWGPC_RMvTMry8YW5XOM79GEIdgS7I5JlOe6OeeOUdmv7ok1s9jQhzojNE4AsyzgL-jJCbRj1LN/pubhtml?gid=0&single=true)
+## Week 1
 
-## Program
+## Week 2
 
-### Week 1 - Hello API 🐒
+## Week 3
 
-Goal: Retrieve data from an API and render it in an overview page.
+## Resources
 
-[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-1920/blob/master/course/week-1.md)
+## Tags
 
-[Slides](https://drive.google.com/open?id=1Rjl9xqXoKniQSRJPdkU1O5YwWC33SJK8KiV0a-H_xZU)
 
-### Week 2 - Design and Refactor 🛠
-
-Goal: Design the web app. Add routes and states. Rendering detail page.
-
-[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-1920/blob/master/course/week-2.md)
-
-[Slides](https://drive.google.com/open?id=1IqQeu1m0dQiSC_KCvrn8eencAgtYe7X6qT-gm0n9Bmc)
-
-### Week 3 - Wrapping up 🎁
-
-Goal:
-Manipulate data. Split code into modules. Reflect on end result_
-
-[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-1920/blob/master/course/week-3.md)
-
-[Slides](https://drive.google.com/open?id=1BSzGYNLMgtHD4HRnK7f0DgyTv4Pg3xsQwD_eYNo7v0Y)
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
