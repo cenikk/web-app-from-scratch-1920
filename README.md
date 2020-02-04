@@ -4,8 +4,14 @@
 In this course I will learn to build a web application without frameworks or unnecessary libraries, but with vanilla HTML, CSS & JavaScript. The end result is a modular, single page web app (SPA). Data will be retrieved from an external API of my choice (imdb.com), manipulated and finally shown in the UI of the App. With the gained knowledge I will be able to build interactive prototypes, based on real data. Besides that, I will gain a better understanding of how API's, frameworks and libraries work.
 
 ## API
+The API I will be using is from The Movie Database (TMDb). TMDb is an online database with films, television series and everything related to it.
+[Link to API](https://www.themoviedb.org/)
 
 ## Installation
+
+### 1. Clone this repository
+Type `git clone https://github.com/cenikk/web-app-from-scratch-1920.git` in your terminal.
+
 
 ## Learning goals
 
@@ -21,6 +27,8 @@ In this course I will learn to build a web application without frameworks or unn
 ## Week 3
 
 ## Resources
+* [List of APIs](https://www.programmableweb.com/apis/directory)
+* [The Movie Database Documentation](https://developers.themoviedb.org/3/movies/get-movie-details)
 
 ## Tags
 
