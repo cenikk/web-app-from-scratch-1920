@@ -5,7 +5,7 @@ In this course I will learn to build a web application without frameworks or unn
 
 ## API
 The API I will be using is from The Movie Database (TMDb). TMDb is an online database with films, television series and everything related to it.
-[Link to API](https://www.themoviedb.org/)--
+[Link to API](https://www.themoviedb.org/)
 
 ## Installation
 
